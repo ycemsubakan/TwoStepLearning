@@ -1,4 +1,4 @@
-# Code for the paper ``On the Effectiveness of Two-Step Learning for Generative Models with Learnable Priors``. 
+# Code for the paper ``On the Effectiveness of Two-Step Learning for Latent-Variable Models``. 
 
 ## Requirements
 * Python >= 3.x  
