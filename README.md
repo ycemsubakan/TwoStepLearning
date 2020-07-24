@@ -11,16 +11,16 @@
 
 ## Synthetic data experiment
 
-The code for figure 4 is in the script `toydata_exps.py`.  
+The code for figure 2 is in the script `toydata_exps.py`.  
 
 ## MNIST GMM-VAE experiment 
 
-The code for the traces in Figure 5 is is in `mnist_exps.py`. 
+The code for the traces in Figure 3 is is in `mnist_exps.py`. 
 
 
 ## Celeba GMM-VAE experiment
 
-The code for the traces in Figure 7 is in `celeba_exps.py`.
+The code for the traces in Figure 3 is in `celeba_exps.py`.
 
 ## Audio experiment 
 
